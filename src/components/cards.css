@@ -1,0 +1,19 @@
+
+.cardmain{
+    width: 75%;
+}
+
+@media only screen and (max-width: 700px){
+    
+    .cardmain{
+        width: 90%;
+    }
+    .flagimg{
+        width: 50%;
+    }
+}
+@media only screen and (max-width: 500px){
+    .cb1{
+        margin-top: 5px;
+    }
+}
